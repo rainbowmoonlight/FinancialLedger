@@ -3,6 +3,6 @@ Financial Accounting &amp; Investment Responsive Web Application created with HT
 
 Try [Financial Ledger](https://FinancialLedger.netlify.com)  
 
-<img src="resources/img/FinancialLedger01.jpg"> 
+<img src="resources/img/FinancialLedger01.jpeg"> 
 
 Try [Financial Ledger](https://FinancialLedger.netlify.com)  
